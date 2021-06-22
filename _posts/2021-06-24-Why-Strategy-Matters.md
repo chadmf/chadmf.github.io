@@ -3,7 +3,7 @@ layout: post
 title: Why Strategy Matters
 subtitle: by Chad Ferman
 cover-img: /assets/img/strategy.jpg
-thumbnail-img: /assets/img/thumb.png
+thumbnail-img: /assets/img/strategy_thumb.jpg
 share-img: /assets/img/strategy.jpg
 ---
 
