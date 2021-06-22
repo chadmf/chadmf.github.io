@@ -2,9 +2,9 @@
 layout: post
 title: Why Strategy Matters
 subtitle: by Chad Ferman
-cover-img: /assets/img/path.jpg
+cover-img: /assets/img/strategy.jpg
 thumbnail-img: /assets/img/thumb.png
-share-img: /assets/img/path.jpg
+share-img: /assets/img/strategy.jpg
 ---
 
 "Formalizing your organization’s approach to open source management and strategy creates guidelines that boost efficiency and minimize risks. Whether or not you have set a business strategy around your open source efforts, you likely already know that this is important." - Linuxfoundation.org
