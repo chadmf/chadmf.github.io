@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Sample blog post
-subtitle: Each post also has a subtitle
-gh-repo: daattali/beautiful-jekyll
+title: How to Contribute to this site
+subtitle: Please contribute!
+gh-repo: chadmf/chadmf.github.io.git
 gh-badge: [star, fork, follow]
 tags: [test]
 comments: true
 ---
+
+If you would like to contribute an article please do a pull request and put the article in the _posts directory in the format of YYYY-MM-DD-name-of-article.md (example: 2020-02-28-test-markdown.md). 
 
 This is a demo post to show you how to write blog posts with markdown.  I strongly encourage you to [take 5 minutes to learn how to write in markdown](https://markdowntutorial.com/) - it'll teach you how to transform regular text into bold/italics/headings/tables/etc.
 
