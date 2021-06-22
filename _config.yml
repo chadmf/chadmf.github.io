@@ -15,8 +15,9 @@ author: Red Hat ADSA
 navbar-links:
   About Me: "aboutme"
   Resources:
-    - Red Hat ADSA Github: "https://redhat-adsa.github.io/HowWeEnable/"
+    - Source code for this site: "https://github.com/redhat-adsa/HowWeEnable"
     - Learn markdown: "https://www.markdowntutorial.com/"
+    - ADSA GitHub Project Board: "https://github.com/orgs/redhat-adsa/projects"
   Author's home: "https://chadmf.github.io"
 
 # --- Logo --- #
@@ -76,7 +77,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "Chad Test"
+url-pretty: "ADSA Test"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
