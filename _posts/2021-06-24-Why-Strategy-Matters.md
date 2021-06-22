@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why Strategy Matters
-subtitle: Excerpt from Soulshaping by Jeff Brown
+subtitle: by Chad Ferman
 cover-img: /assets/img/path.jpg
 thumbnail-img: /assets/img/thumb.png
 share-img: /assets/img/path.jpg
